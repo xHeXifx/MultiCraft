@@ -12,7 +12,7 @@ internal class EasyCraft
     static EasyCraft()
     {
         var getPickupCountMethod = Type
-          .GetType("EasyCraft.ClosestItemContainers, EasyCraft")
+          .GetType("EasyCraft.ClosestItemContainers, EasyCraft_BZ")
           ?.GetMethod("GetPickupCount", AllFlags);
 
         getPickupCount = getPickupCountMethod != null ? new MethodWrapper<Func<TechType, int>>(getPickupCountMethod) : null;

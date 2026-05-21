@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace MultiCraft;
 
-[BepInPlugin("com.hexif.bulkcraft", "BulkCraft", "1.0")]
+[BepInPlugin("com.hexif.bulkcraft", "BulkCraft", "2.0")]
 [BepInDependency("com.snmodding.nautilus")]
 public class Plugin : BaseUnityPlugin
 {

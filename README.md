@@ -17,6 +17,8 @@
 	</tr>
 </table>
 
+## EasyCraft
+On release of 2.0 MultiCraft now works with EasyCraft allowing you to craft multiple items using resources from outside your inventory
 
 ## Requirements
 - Subnautica: Below Zero
