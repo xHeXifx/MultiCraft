@@ -4,3 +4,5 @@ Assembly-CSharp.dll
 EasyCraft_BZ.dll
 config.json
 tail.ps1
+/.idea
+.DS_Store

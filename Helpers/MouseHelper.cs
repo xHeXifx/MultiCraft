@@ -12,8 +12,8 @@ internal static class MouseHelper
         Down,
     }
 
-    public static string ScrollUpIcon => "+";
-    public static string ScrollDownIcon => "-";
+    public static string ScrollUpIcon => "ScrollUp";
+    public static string ScrollDownIcon => "ScrollDown";
 
     public static ScrollDir GetScrollDir()
     {
